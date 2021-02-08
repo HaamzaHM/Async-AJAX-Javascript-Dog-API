@@ -1,6 +1,6 @@
-# Async-AJAX-Javascript-Dog-API
 
-<h1> Async-AJAX-Javascript-Dog-API</h1>
+
+<h1> Javascript Dog API</h1>
 <hr>
 <h3>&#8595;   &#8595;  Click Here  &#8595;   &#8595;</h3>
 <button>
@@ -9,3 +9,6 @@
 
 <b><p>
 Fetching the Data from API and displaying it on web</p></b>
+
+
+<img src="dog.PNG" alt="Dog">
